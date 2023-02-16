@@ -1,4 +1,4 @@
-# SAR-Range-Doppler-Algorithm-Simulation
+# SAR-Algorithm-Simulation
 A MATLAB Script capable of simulating SAR signal from multiple targets and generating image.
 
 RDA.m: a detailed implementation of range doppler algorithm
